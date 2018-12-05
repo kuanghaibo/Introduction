@@ -8,6 +8,10 @@ Projects
 Readings
 1. linguistics
 2. computer science
+3. artificial intelligence
 
 Writings
 1. linguistics & computational linguistics
+
+programmings
+1. natural language processing
